@@ -1,0 +1,52 @@
+header,
+footer {
+  background-color: rgb(33, 156, 228);
+  color: rgb(27, 36, 35);
+  margin: 0 12px;
+ 
+}
+/* footer {
+  background-color: rgb(137, 112, 182);
+  color: rgb(27, 36, 35);
+  width: 1%;
+} */
+.newsContainer {
+  background-color: rgb(174, 245, 233);
+  padding:10px;
+
+}
+.newsContainer .newsBox
+{
+  background-color: rgb(219, 138, 162);
+  padding: 20px;
+}
+
+/* header h1 {
+  font-family: "Clear Sans", sans-serif;
+  color: rgb(226, 21, 31);
+}
+
+nav {
+  margin-left: 20px;
+}
+
+a,
+a:hover {
+  color: rgb(194, 30, 30);
+}
+
+body {
+  font-family: "Clear Sans", sans-serif;
+}
+
+.btn-primary {
+  background-color: rgb(6, 20, 80);
+  color: rgb(182, 57, 57);
+  border: 1px solid rgb(6, 20, 80);
+}
+
+.btn-primary:hover {
+  background-color: rgb(189, 25, 25);
+  color: rgb(6, 20, 80);
+  border: 1px solid rgb(0, 54, 80);
+} */
